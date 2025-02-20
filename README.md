@@ -10,9 +10,6 @@ This project demonstrates a **personalized recommendation engine** for an e-comm
 - **Neo4j** 🌳
 - **AWS SageMaker** ☁️
 
-## 🗂️ File Structure
-- personalized-recommendation-engine/ │ ├── app/ # API and recommendation logic │ ├── init.py │ ├── recommendation.py │ └── api.py │ ├── model/ # Model training, dataset, and architecture │ ├── train.py │ ├── dataset.py │ └── model.py │ ├── utils/ # Utilities for data processing, graph handling, and deployment │ ├── data_preprocessing.py │ ├── graph.py │ └── aws_deploy.py │ ├── requirements.txt # Python dependencies ├── config.yaml # Configuration settings └── README.md # 
-
 ## Project documentation
 
 ## 🏗️ Setup
